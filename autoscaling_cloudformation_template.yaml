@@ -314,7 +314,7 @@ Resources:
             #!/bin/bash
             echo "Content-type: text/plain"
             echo ""
-            stress-ng --cpu 4 --timeout 200
+            stress-ng --cpu 4 --timeout 300
             EOF
 
             # Make the script executable
