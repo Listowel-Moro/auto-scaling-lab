@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: 'Auto Scaling Lab - Dynamic Scaling of Apache Web Servers'
+Description: 'Auto Scaling Lab - Dynamic Scaling of Apache Web Server'
 
 Resources:
   # VPC
