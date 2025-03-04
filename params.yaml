@@ -1,0 +1,3 @@
+template-file-path: autoscaling_cloudformation_template.yaml
+parameters: {}
+tags: {}
